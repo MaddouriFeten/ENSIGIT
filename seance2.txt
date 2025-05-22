@@ -4,3 +4,4 @@ SEANCE 2 TP GIT
 day1 docker
 day2 git
 bien
+Merci bcp
